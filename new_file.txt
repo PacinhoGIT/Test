@@ -1,1 +1,2 @@
 This is new file and this is first line :)
+And this is second line (added local)
